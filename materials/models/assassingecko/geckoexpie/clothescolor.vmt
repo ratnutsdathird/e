@@ -1,0 +1,16 @@
+VertexlitGeneric"
+{
+	"$basetexture" "models/assassingecko/geckoexpie/clothescolor"
+	"$nocull" 1
+                "$nodecal" 1
+	"$blendtintbybasealpha" 1
+Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.3 0.3 0.3
+		}
+                }
+}
+V

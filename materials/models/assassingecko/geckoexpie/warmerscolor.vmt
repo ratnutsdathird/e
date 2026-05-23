@@ -1,0 +1,15 @@
+VertexlitGeneric"
+{
+	"$basetexture" "models/assassingecko/geckoexpie/warmerscolor"
+	"$bumpmap" "models/assassingecko/geckoexpie/warmersnormal"
+	"$blendtintcoloroverbase" "1"
+Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.3 0.3 0.3
+		}
+                }
+}
+V

@@ -1,0 +1,8 @@
+VertexlitGeneric"
+{
+	"$basetexture" "models/assassingecko/geckoexpie/eyesalbino"
+	"$nodecal" 1
+                "$selfillum" 1
+	"$selfillummask" "models/assassingecko/geckoexpie/eyesalbino"
+}
+V

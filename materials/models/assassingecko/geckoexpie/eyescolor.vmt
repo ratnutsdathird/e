@@ -1,0 +1,19 @@
+VertexlitGeneric"
+{
+	"$basetexture" "models/assassingecko/geckoexpie/black"
+	"$nodecal" 1
+	"$emissiveblendenabled" 1
+	"$emissiveblendtexture" "models/assassingecko/geckoexpie/white"
+	"$emissiveblendbasetexture" "models/assassingecko/geckoexpie/eyescolor"
+	"$emissiveblendflowtexture" "models/assassingecko/geckoexpie/white"
+	"$emissiveblendtint" "[1 1 1]"
+	"$emissiveblendstrength" 1
+	"$emissiveblendscrollvector" "[0 0]"
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar "$emissiveblendtint"
+		}
+	}
+}V

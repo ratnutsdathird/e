@@ -1,0 +1,7 @@
+VertexlitGeneric"
+{
+	"$basetexture" "models/assassingecko/geckoexpie/clothes"
+	"$nocull" 1
+                "$nodecal" 1
+}
+V

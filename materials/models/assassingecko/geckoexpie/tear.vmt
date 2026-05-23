@@ -1,0 +1,7 @@
+VertexlitGeneric"
+{
+	"$basetexture" "models/assassingecko/geckoexpie/tear"
+	"$translucent" 1
+                "$nodecal" 1
+}
+V

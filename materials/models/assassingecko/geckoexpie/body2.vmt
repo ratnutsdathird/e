@@ -1,0 +1,14 @@
+VertexlitGeneric"
+{
+	"$basetexture" "models/assassingecko/geckoexpie/bodydiff2"
+	"$blendtintbybasealpha" 1
+Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.3 0.3 0.3
+		}
+                }
+}
+"
